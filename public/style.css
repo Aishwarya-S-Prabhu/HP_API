@@ -23,8 +23,7 @@ button {
   color: white;
 }
 button:hover {
-  height: 50px;
-  width: 70px;
+  box-shadow: 10px 5px 5px #483021;
 }
 li{
   list-style-type: square;
@@ -235,17 +234,14 @@ Link{
   width: 300px;
 }
 .potionsDisp:hover{
-  height: 50vh;
   box-shadow: 10px 5px 5px #714d35;
 }
 .spellsDisp:hover{
-  height: 50vh;
   box-shadow: 10px 5px 5px #483021;
 }
 
 .wizardDisp:hover{
-  height: 50vh;
-  box-shadow: 10px 5px 5px #1c1512;
+  box-shadow: 10px 5px 5px #483021;
 }
 
 
